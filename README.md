@@ -22,10 +22,10 @@ Update an existing user's information.
 Delete a user by ID.
 
 **📁 Project Structure**
-task4-flask-api/
-│
-├── app.py            # Main Flask application
-├── README.md         # Project documentation
+flask-api
+
+ app.py            # Main Flask application
+ README.md         # Project documentation
 
 **🎯 What I Learnt**
 
