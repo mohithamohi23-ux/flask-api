@@ -1,7 +1,7 @@
 # flask-api
 This project is a simple Flask-based REST API that performs basic CRUD operations (Create, Read, Update, Delete) for user data. The API was tested using Thunder Client in VS Code.
 
-##📌 Features
+**📌 Features**
 
 The API supports the following operations:
 
@@ -21,15 +21,13 @@ Update an existing user's information.
 
 Delete a user by ID.
 
-##📁 Project Structure
+**📁 Project Structure**
 task4-flask-api/
 │
 ├── app.py            # Main Flask application
 ├── README.md         # Project documentation
 
-##🎯 Purpose of the Task
-
-This task demonstrates:
+**🎯 What I Learnt**
 
 Understanding of REST API basics
 
